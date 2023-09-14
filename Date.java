@@ -19,17 +19,17 @@ public class Date {
 
   // Gets the day
   public int getDay() {
-    return day;
+    return this.day;
   }
 
   // Gets the month
   public int getMonth() {
-    return month;
+    return this.month;
   }
 
   // Gets the year
   public int getYear() {
-    return year;
+    return this.year;
   }
 
   // Sets the day
